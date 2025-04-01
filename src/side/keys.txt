@@ -1,0 +1,11 @@
+game_name,game_key
+The Witcher 3,12A4-67B8-9C0D-E1F2
+Cyberpunk 2077,55GG-7788-HH99-KK33
+FIFA 23,4455-3322-1122-9988
+Call of Duty: Warzone,123-456789-ABCD
+Minecraft,MC-123456-7890
+Grand Theft Auto V,GT5A-1234-5678-9012
+Among Us,AMUS-112233-4455
+Red Dead Redemption 2,RDR2-1234-5678-9ABC
+Fortnite,FN-9876-5432-10
+Valorant,VAL-1234-5678-90AB
